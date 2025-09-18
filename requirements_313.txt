@@ -1,0 +1,9 @@
+# Requisitos para Python 3.13 (evita compilar pandas)
+# Deja que Streamlit resuelva pandas compatible para 3.13.
+# Si aún falla, probar con: pip install --only-binary=:all: streamlit requests beautifulsoup4 lxml openpyxl tldextract
+streamlit
+requests
+beautifulsoup4
+lxml
+openpyxl
+tldextract
