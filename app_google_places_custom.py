@@ -1,5 +1,4 @@
 # app_google_places_custom.py
-from __future__ import annotations
 
 import io, os, re, time, math, datetime, json, base64
 from dataclasses import dataclass
@@ -458,4 +457,3 @@ if lanzar:
         except Exception:
             pass
     st.info(f"📁 Guardado en:\n- CSV: `{csv_path}`\n- Excel: `{xlsx_path}`")
-
