@@ -1,0 +1,1 @@
+# Rellena GOOGLE_API_KEY y APP_PASSWORD en .streamlit/secrets.toml (no subir a GitHub).

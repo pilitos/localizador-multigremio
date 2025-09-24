@@ -1,5 +1,13 @@
 streamlit==1.37.1
 pandas==2.2.3
+<<<<<<< HEAD
 requests==2.32.3
 openpyxl==3.1.5
 tldextract==5.1.2
+=======
+numpy>=2,<3
+requests==2.32.3
+openpyxl==3.1.5
+tldextract==5.1.2
+pyarrow==18.1.0
+>>>>>>> 7984b8f (v2 FULL EMBEDDED)
