@@ -4,4 +4,5 @@ numpy==1.26.4
 requests==2.32.3
 openpyxl==3.1.5
 tldextract==5.1.2
-pyarrow==14.0.2 ; python_version < "3.13"
+pydeck==0.9.1
+altair==5.5.0
