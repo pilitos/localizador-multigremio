@@ -5,7 +5,6 @@ from dataclasses import dataclass
 from typing import List, Optional, Dict, Any, Tuple
 
 # app_google_places_custom.py — v2 EMBEDDED (logos + persistencia + portada + login)
-from __future__ import annotations
 
 import io, os, re, time, math, datetime, base64
 from dataclasses import dataclass
