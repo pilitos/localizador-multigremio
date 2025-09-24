@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # app_google_places_custom.py
 from __future__ import annotations
 
@@ -14,7 +13,6 @@ import io, os, re, time, math, datetime, base64
 from dataclasses import dataclass
 from typing import List, Optional, Dict, Any, Tuple
 from urllib.parse import urljoin, urlparse
->>>>>>> 7984b8f (v2 FULL EMBEDDED)
 
 import pandas as pd
 import requests
